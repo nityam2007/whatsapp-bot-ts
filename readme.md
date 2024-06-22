@@ -38,7 +38,7 @@ npm install
 
 Start the WhatsApp bot using the following command:
 ```
-node whatsapp-bot.json
+node whatsapp-bot.js
 ```
 This command initializes the bot, loads initial responses from responses.csv, and starts listening for incoming messages.
 
